@@ -52,7 +52,3 @@ node filename.js
 - Promises and Async/Await
 - Error Handling
 - ES6+ Freatures
-
-## License
-
-This project is licensed under the MIT License.
